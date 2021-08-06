@@ -1,5 +1,5 @@
 {
-    "name": "cmzz/laravel-request-id",
+    "name": "jaren-feng/laravel-request-id",
     "description": "RequestId middleware for Laravel;",
     "license": "MIT",
     "keywords": ["laravel", "request-id", "requestId"],
